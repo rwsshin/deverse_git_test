@@ -1,3 +1,4 @@
 1 hello
 2 my name is
 3 richard
+4 //reminder to self: teach bob and john how to use git
